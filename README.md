@@ -1,6 +1,5 @@
-- 👋 Hi, future me
+- 👋 Hi, future me - 05/14/25
 - I am a beginner idiot who struggle with basic syntax & OOP
-- 05/14/25
 - dont give up, you can do it!
 - happy coding!
 
