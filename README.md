@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tranly123
-- 👀 I’m interested in playing COD all day!
-- 🌱 I’m currently learning java!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, future me
+- I am a beginner idiot who struggle with basic syntax & OOP
+- 05/14/25
+- dont give up, you can do it!
+- happy coding!
 
 <!---
 tranly123/tranly123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
