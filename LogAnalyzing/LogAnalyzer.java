@@ -7,7 +7,7 @@ import java.util.List;
  * The LogAnalyzer class processes an array of log entries, stores them as
  * LogEntry objects, and provides methods for filtering, threshold checking,
  * deleting, and reporting the logs.
- * 
+ * Test
  * @author Tran Ly
  */
 public class LogAnalyzer {
